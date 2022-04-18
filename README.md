@@ -6,5 +6,6 @@ dt 30MAY2021
 
 At last! I started using a better version of RTCLib, and completely reworked the DS1307 RTC code - much cleaner and easier to display..Enjoy!
 dt 21DEC2021
-I found a glitch with the version of RTCLib that I was using, causing the month display to be corrupted e.g. 'APR' was displayed as 'AMR'. updating to latest version of RTCLib fixed this now displays 'Apr'
+
+I found a glitch with the version of RTCLib that I was using, causing the month display to be corrupted e.g. 'APR' was displayed as 'AMR'. updating to latest version of RTCLib fixed this now displays 'Apr'.
 dt 18APR2022
