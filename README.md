@@ -12,3 +12,6 @@ dt 21DEC2021
 I found a glitch with the version of RTCLib that I was using, causing the month display to be corrupted e.g. 'APR' was displayed as 'AMR'. updating to latest version of RTCLib fixed this now displays 'Apr'.
 
 dt 18APR2022
+
+The clock has been working fine for a while now, the next clock will be a large 7 seg LED model for the Shed!
+dt 17MAY2024
