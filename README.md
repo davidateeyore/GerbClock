@@ -14,6 +14,7 @@ I found a glitch with the version of RTCLib that I was using, causing the month 
 dt 18APR2022
 
 The clock has been working fine for a while now, the next clock will be a large 7 seg LED model for the Shed!
+
 dt 17MAY2024
 
 the shed unit has changed to a 4 x FC8x8 LEDmatrix display design, I just have to clean up the code and assemble the clock in a 3D printed case..
