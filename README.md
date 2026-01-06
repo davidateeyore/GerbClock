@@ -20,3 +20,9 @@ dt 17MAY2024
 the shed unit has changed to a 4 x FC8x8 LEDmatrix display design, I just have to clean up the code and assemble the clock in a 3D printed case..
 
 dt 15AUG2024
+
+the original GerbClock has been upgraded to an ESP32 module and fitted with a temp/pressure/humidity sensor unit, so it does much more!
+the code is having a cleanup prior to posting..
+
+dt 06JAN2026
+
